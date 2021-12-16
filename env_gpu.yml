@@ -1,0 +1,19 @@
+name: tgpu
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit==10.2
+  - ipykernel
+  - numpy
+  - matplotlib
+  - dash
+  - nibabel
+  - pydicom
+  - nilearn
+  - pandas

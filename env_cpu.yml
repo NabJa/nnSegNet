@@ -1,0 +1,22 @@
+name: brats21
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - black
+  - ipykernel
+  - nibabel
+  - simpleitk
+  - tqdm
+  - matplotlib
+  - pandas
+  - scikit-image
+  - ipywidgets
+  - dash
+  - nilearn
+  - kaggle
