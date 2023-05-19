@@ -1,5 +1,7 @@
 # BraTS21
 
+[Segmenting Brain Tumors in Multi-modal MRI Scans Using a 3D SegNet Architecture](https://link.springer.com/chapter/10.1007/978-3-031-08999-2_32).
+
 ## Challange structure
 ### Task 1: Brain Tumor Segmentation
 
